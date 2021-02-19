@@ -20,4 +20,9 @@ we will refer NodeJS as nodejs-v8 and node-graal to make sure which NodeJS we ar
 ## TODO Archive and consolidate
 - https://github.com/direktspeed/jnjs
 - https://github.com/stealify/nodejs-jvm
-- https://github.com/direktspeed/jnjs/issues/3 is a list of projects that we need to find
+- https://github.com/direktspeed/jnjs/issues/3 
+  - graalvm-node
+  - node-graalvm
+  - graaljs*
+  - node-java (done?!)
+  - java-node
